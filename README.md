@@ -13,7 +13,7 @@ How to use.
 
 First step
 ```
-git clone reponame
+git clone https://github.com/xdarkkkkk/FBProfilePicGuard
 ```
 
 Second step
