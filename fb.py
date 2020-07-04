@@ -61,8 +61,8 @@ banner = '''\033[92m
 Thank you for using my tool!
 Your Facebook Profile Guard is now being worked on
 
-Tool developed by:
-\033[1;31;40m https://mythsecph.xyz  \n
+Tool developed by exdarku.
+https://mythsecph.xyz
 
 '''
 
